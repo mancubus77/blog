@@ -1,0 +1,47 @@
+# change the followings to match your Github username and repo name
+baseurl: "/blog" # the name of your github repo
+url: "https://mancubus77.github.io" # the url of your github pages
+
+# site information used in page title, meta data etc.
+title: "Safe place for experiments"
+description: "[||||||||||||||.....]"
+
+# color theme for links
+theme-color: indigo # indigo|yellow|pink|green|stone|
+
+# homepage information
+author: Cerberus
+author-bio: Technology junkie # change to false to hide
+author-image: 279.png  # file must be in the /assets/img/ folder
+
+# navigation menu
+show-nav-menu: true
+
+nav-menu:
+- text: About
+  permalink: about
+- text: Notes
+  permalink: notes
+- text: Blog
+  permalink: blog
+
+# use false to turn off any social media links
+twitter: https://twitter.com/
+facebook: https://facebook.com/
+instagram: https://instagram.com/
+github: https://github.com/
+linkedin: https://linkedin.com/
+medium: https://cer6erus.medium.com/
+google-scholar: false
+email: false
+
+# footer information
+footer-msg: "Powered by Tailpages"
+footer-msg-link: https://github.com/harrywang/tailpages
+
+# google analytics
+google-analytics: G-WCRC1TC2V5
+
+# jekyll plugins - no need to change
+plugins:
+    - jekyll-seo-tag
