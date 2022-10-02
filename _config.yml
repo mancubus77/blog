@@ -31,7 +31,8 @@ facebook: https://facebook.com/
 instagram: https://instagram.com/
 github: https://github.com/
 linkedin: https://linkedin.com/
-medium: https://cer6erus.medium.com/
+#medium: https://cer6erus.medium.com/
+medium: false
 google-scholar: false
 email: false
 
@@ -40,7 +41,7 @@ footer-msg: "Powered by Tailpages"
 footer-msg-link: https://github.com/harrywang/tailpages
 
 # google analytics
-google-analytics: G-WCRC1TC2V5
+# google-analytics:
 
 # jekyll plugins - no need to change
 plugins:
