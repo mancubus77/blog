@@ -1,3 +1,8 @@
+---
+layout: post
+title: DevSecOps with Tekton and OpenShift
+tags: ocp, telco
+---
 DevSecOps with Tekton and OpenShift
 ===================================
 

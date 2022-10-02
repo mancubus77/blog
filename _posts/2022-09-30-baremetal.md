@@ -1,3 +1,8 @@
+---
+layout: post
+title: OpenShift Baremetal Ingress for Telco use cases
+tags: ocp, telco
+---
 OpenShift Baremetal Ingress for Telco use cases
 ===============================================
 
